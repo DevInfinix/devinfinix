@@ -1,27 +1,32 @@
-## Myself, `INFINIX` aka [DevInfinix](https://www.YouTube.com/@devinfinix)
+# Myself, `INFINIX` aka [DevInfinix](https://www.YouTube.com/@devinfinix)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M65TDE4)
 
 ---
 
-> ### ```ABOUT ME```
+> ## ```ABOUT ME```
 
-- 🖥️ I like coding 
-- ⚙️ I develope utility apps (Python) and Discord Bots (discord.py)
+Hi, I'm a student, studying computer science and programming. I code and develop Discord Bots, Python apps and libraries, browser extensions, and APIs, and administrate hosting companies.
+I have 4 years of programming experience, a track record of successful projects, and proven expertise in agile development processes. I love managing teams and solving customer problems.
+
+- 🖥️ I like programming 
+- ⚙️ I develope utility apps (Python) and Discord Bots
 - 👑 I am the owner of [**OMEGA GLOBAL COMMUNITY**](https://www.discord.gg/DNvFcrhdzr) (Discord Server)
+- ⚡ I am a `verified bot developer` on discord
 
 ---
 
-> ### ```CREATIONS:```
+> ## ```CREATIONS:```
 
 - 💎 **ABLETON BOT - [100+ Servers, 120k+ Members, 300+ Commands]:** https://bit.ly/abletonbot
 - 🎀 **MIKEY BOT (Dev) - [12k+ Servers, 12+ Features]:** https://mikeybot.in
 
 ---
 
-> ### ```ABLETON : A MULTIPORPOSE DISCORD BOT```
+> ## ```ABLETON: THE CLASSIC MULTIPORPOSE DISCORD BOT```
 
-- 🤖 [**ABLETON**](https://discord.com/oauth2/authorize?client_id=762661901258850331&scope=bot&permissions=8) is a multi-purpose Discord Bot loaded with hundreds of commands (including Moderation, Lag-free Music, Games, Economy, Leveling, Funs and much more), which is developed by me :)
+- 🤖 [**ABLETON**](https://discord.com/oauth2/authorize?client_id=762661901258850331&scope=bot&permissions=8) is the Classic Multi-Purpose Bot, loaded with tons of useful features such as:
+Mod, Music, Economy, Anti-Raid, Levelling, ChatBot, Fun, Reaction-Roles, Invite-Tracker, AutoMod, Giveaways, ModLog, Games, Image manipulation, customization and much more!
 - 👇 It's verified! GGs! Invite it to your servers NOW:
 - 🔗 [ADMINISTRATOR INVITE LINK](https://discord.com/oauth2/authorize?client_id=762661901258850331&scope=bot&permissions=8) (Recomended)
 - 🔗 [NON-ADMINISTRATOR INVITE LINK](https://discord.com/api/oauth2/authorize?client_id=762661901258850331&permissions=4294967287&scope=bot)
@@ -30,26 +35,39 @@
 
 ---
 
-> ### `CONNECT WITH ME`
+> ## `CONNECT WITH ME`
 
-[<img align="left" alt="Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" />](https://www.discord.gg/DNvFcrhdzr)
-[<img align="left" alt="cws | YouTube" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png" />](https://www.YouTube.com/SymphonicMelody)
-[<img align="left" alt="cws | Reddit" width="22px" src="https://external-preview.redd.it/iDdntscPf-nfWKqzHRGFmhVxZm4hZgaKe5oyFws-yzA.png?auto=webp&s=38648ef0dc2c3fce76d5e1d8639234d8da0152b2" />](https://www.reddit.com/user/SymphonicMelodyYT)
+[![](https://discord.c99.nl/widget/theme-3/701284844600295466.png)](https://discord.gg/DNvFcrhdzr)
+
+- 🟥 **YouTube:** https://youtube.com/@devinfinix
+- 🟪 **Discord:** https://www.discord.gg/DNvFcrhdzr
+- 🟦 **Twitter:** https://twitter.com/dev_infinix
+- 🟨 **Ko-fi:** https://ko-fi.com/M4M65TDE4
+
 <br>
 
 ---
 
-> ### `LANGUAGES I AM CURRENTLY WORKING ON:`
->
+![INFINIX' GitHub Stats](https://github-readme-stats.vercel.app/api?username=devinfinix&show_icons=true&theme=nightowl)
+
+---
+
+> ## `LANGUAGES I AM CURRENTLY WORKING ON:`
+
 - 🐍 Python
 - 💻 HTML/CSS
 - ☕ Java
 - ✈ Dart
 - ♦ Js
 
+> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devinfinix&langs_count=8&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+>
+> (The projects - other than python - are currently private. So, it won't show up in the stats :pepesadge:)
+
 ---
 
-> ```HELP ME PAY FOR MY NEXT MONTH's HOSTING:```
+> ## ```HELP ME PAY FOR MY NEXT MONTH's HOSTING:```
+> 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M65TDE4)
 
 ---
