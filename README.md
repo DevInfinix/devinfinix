@@ -1,5 +1,7 @@
 ## Myself, `INFINIX` aka [DevInfinix](https://www.YouTube.com/@devinfinix)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M65TDE4)
+
 ---
 
 > ### ```ABOUT ME```
@@ -44,6 +46,11 @@
 - ☕ Java
 - ✈ Dart
 - ♦ Js
+
+---
+
+> ```HELP ME PAY FOR MY NEXT MONTH's HOSTING:```
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M65TDE4)
 
 ---
 
