@@ -1,6 +1,6 @@
-## Myself, `INFINIX` aka [Symphonic Melody](https://www.YouTube.com/SymphonicMelody)
+## Myself, `INFINIX` aka [DevInfinix](https://www.YouTube.com/@devinfinix)
 
-<br> 
+---
 
 > ### ```ABOUT ME```
 
@@ -10,10 +10,17 @@
 
 ---
 
+> ### ```CREATIONS:```
+
+- 💎 **ABLETON BOT - [100+ Servers, 120k+ Members, 300+ Commands]:** https://bit.ly/abletonbot
+- 🎀 **MIKEY BOT (Dev) - [12k+ Servers, 12+ Features]:** https://mikeybot.in
+
+---
+
 > ### ```ABLETON : A MULTIPORPOSE DISCORD BOT```
 
 - 🤖 [**ABLETON**](https://discord.com/oauth2/authorize?client_id=762661901258850331&scope=bot&permissions=8) is a multi-purpose Discord Bot loaded with hundreds of commands (including Moderation, Lag-free Music, Games, Economy, Leveling, Funs and much more), which is developed by me :)
-- 👇 You can use the link provided below to invite it to your server and help it reach 100 servers 
+- 👇 It's verified! GGs! Invite it to your servers NOW:
 - 🔗 [ADMINISTRATOR INVITE LINK](https://discord.com/oauth2/authorize?client_id=762661901258850331&scope=bot&permissions=8) (Recomended)
 - 🔗 [NON-ADMINISTRATOR INVITE LINK](https://discord.com/api/oauth2/authorize?client_id=762661901258850331&permissions=4294967287&scope=bot)
 
@@ -31,8 +38,12 @@
 ---
 
 > ### `LANGUAGES I AM CURRENTLY WORKING ON:`
+>
 - 🐍 Python
 - 💻 HTML/CSS
+- ☕ Java
+- ✈ Dart
+- ♦ Js
 
 ---
 
