@@ -1,4 +1,4 @@
-# Myself, `INFINIX` aka [DevInfinix](https://www.YouTube.com/@devinfinix)
+# Myself, `INFINIX` aka [**DevInfinix**](https://www.YouTube.com/@devinfinix)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M65TDE4)
 
@@ -11,7 +11,7 @@ I have 4 years of programming experience, a track record of successful projects,
 
 - 🖥️ I like programming 
 - ⚙️ I develope utility apps (Python) and Discord Bots
-- 👑 I am the owner of [**OMEGA GLOBAL COMMUNITY**](https://www.discord.gg/DNvFcrhdzr) (Discord Server)
+- 👑 I am the owner of [`OMEGA GLOBAL COMMUNITY`](https://www.discord.gg/DNvFcrhdzr) (Discord Server)
 - ⚡ I am a `verified bot developer` on discord
 
 ---
@@ -25,24 +25,25 @@ I have 4 years of programming experience, a track record of successful projects,
 
 > ## ```ABLETON: THE CLASSIC MULTIPORPOSE DISCORD BOT```
 
-- 🤖 [**ABLETON**](https://discord.com/oauth2/authorize?client_id=762661901258850331&scope=bot&permissions=8) is the Classic Multi-Purpose Bot, loaded with tons of useful features such as:
+- [![ABLETON](https://discord.c99.nl/widget/theme-3/762661901258850331.png)](https://discord.com/api/oauth2/authorize?client_id=762661901258850331&permissions=8&scope=bot%20applications.commands)
+- 🤖 [`ABLETON`](https://discord.com/oauth2/authorize?client_id=762661901258850331&scope=bot&permissions=8) is the Classic Multi-Purpose Bot, loaded with tons of useful features such as:
 Mod, Music, Economy, Anti-Raid, Levelling, ChatBot, Fun, Reaction-Roles, Invite-Tracker, AutoMod, Giveaways, ModLog, Games, Image manipulation, customization and much more!
 - 👇 It's verified! GGs! Invite it to your servers NOW:
-- 🔗 [ADMINISTRATOR INVITE LINK](https://discord.com/oauth2/authorize?client_id=762661901258850331&scope=bot&permissions=8) (Recomended)
-- 🔗 [NON-ADMINISTRATOR INVITE LINK](https://discord.com/api/oauth2/authorize?client_id=762661901258850331&permissions=4294967287&scope=bot)
+- 🔗 [`INVITE LINK`](https://discord.com/api/oauth2/authorize?client_id=762661901258850331&permissions=8&scope=bot%20applications.commands)
 
-- 💡 `Update` : I am thinking to make the source of the bot and open-source project. Please let me know if I should do that. (Join my discord server to contact me)
+- 💡 `Update` : I am planning to make the source of the bot and open-source project. Please let me know if I should do that. (Join my discord server to contact me)
 
 ---
 
 > ## `CONNECT WITH ME`
 
-[![](https://discord.c99.nl/widget/theme-3/701284844600295466.png)](https://discord.gg/DNvFcrhdzr)
+- [![](https://discord.c99.nl/widget/theme-3/701284844600295466.png)](https://discord.gg/DNvFcrhdzr)
 
 - 🟥 **YouTube:** https://youtube.com/@devinfinix
 - 🟪 **Discord:** https://www.discord.gg/DNvFcrhdzr
 - 🟦 **Twitter:** https://twitter.com/dev_infinix
 - 🟨 **Ko-fi:** https://ko-fi.com/M4M65TDE4
+- 🟩 **PayPal:** https://paypal.me/kaurhardeep75
 
 <br>
 
