@@ -1,4 +1,4 @@
-# Myself, `INFINIX` aka [**DevInfinix**](https://www.YouTube.com/@devinfinix)
+# Myself, `INFINIX` aka [**DevInfinix**](https://www.thesamstudios.tech)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M65TDE4)
 
@@ -39,6 +39,7 @@ Mod, Music, Economy, Anti-Raid, Levelling, ChatBot, Fun, Reaction-Roles, Invite-
 
 - [![](https://discord.c99.nl/widget/theme-3/701284844600295466.png)](https://discord.gg/DNvFcrhdzr)
 
+- ⬜ **Website:** https://www.thesamstudios.tech
 - 🟥 **YouTube:** https://youtube.com/@devinfinix
 - 🟪 **Discord:** https://www.discord.gg/DNvFcrhdzr
 - 🟦 **Twitter:** https://twitter.com/dev_infinix
