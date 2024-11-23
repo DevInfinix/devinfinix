@@ -40,7 +40,7 @@ Mod, Music, Economy, Anti-Raid, Levelling, ChatBot, Fun, Reaction-Roles, Invite-
 
 - [![](https://discord.c99.nl/widget/theme-3/701284844600295466.png)](https://discord.gg/DNvFcrhdzr)
 
-- ⬜ **Website:** https://www.thesamstudios.tech
+- ⬜ **Website:** https://thesamstudios.pages.dev
 - 🟥 **YouTube:** https://youtube.com/@devinfinix
 - 🟪 **Discord:** https://www.discord.gg/DNvFcrhdzr
 - 🟦 **Twitter:** https://twitter.com/dev_infinix
